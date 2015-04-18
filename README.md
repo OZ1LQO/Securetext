@@ -1,5 +1,5 @@
 # Securetext
-A small an simple experiment with XOR encryption
+A small and simple experiment with XOR encryption
 
 Released as open source, do what you want, BUT USE AT OWN RISK!!!
 I will at no point be held liable for any damage, personal as well as monetary, as a result of using this script.
